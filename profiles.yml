@@ -1,0 +1,7 @@
+default:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: C:/Users/raina/dbt_project/my_data.db
