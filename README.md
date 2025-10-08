@@ -1,14 +1,13 @@
-\# DBT Project
+# DBT Project
 
-\## Path of each file
+## Path of each file
 
 Each file should be in a specific folder for dbt to function properly.
 
 
 
-\- \[dbt\_project.yml]: "C:\\Users\\<your\_username>\\Desktop\\dbt\_project\\dbt\_project.yml"
+- [dbt_project.yml]: "C:\Users\<your_username>\Desktop\dbt_project\dbt_project.yml"
 
-\- \[my\_first\_model.sql]: "C:\\Users\\<your\_username>\\Desktop\\dbt\_project\\models\\my\_first\_model.sql"
+- [my_first_model.sql]: "C:\Users\<your_username>\Desktop\dbt_project\models\my_first_model.sql"
 
-\- \[profiles.yml]: "C:\\Users\\<your\_username>\\.dbt\\profiles.yml"
-
+- [profiles.yml]: "C:\Users\<your_username>\.dbt\profiles.yml"
