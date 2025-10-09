@@ -4,4 +4,4 @@ default:
     dev:
       type: sqlite
       threads: 1
-      database: C:/Users/raina/dbt_project/my_data.db
+      database: C:/Users/raina/Desktop/dbt_project/superstore.db
