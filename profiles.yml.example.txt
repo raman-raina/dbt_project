@@ -1,0 +1,13 @@
+superstore:
+  outputs:
+    dev:
+      account: SNOWFLAKE_ACCOUNT
+      database: SNOWFLAKE_DATABASE
+      password: SNOWFLAKE_PASSWORD
+      role: SNOWFLAKE_ROLE
+      schema: SNOWFLAKE_SCHEMA
+      threads: 10
+      type: snowflake
+      user: USERNAME
+      warehouse: SNOWFLAKE_WAREHOUSE
+  target: dev
