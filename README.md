@@ -1,6 +1,6 @@
 # ELT Project: Superstore Dataset
 
-This project performs ELT operations on the *Superstore* dataset.
+This project demonstrates a complete ELT (Extract, Load, Transform) pipeline on the *Superstore* dataset.
 
 ## Pipeline
 
